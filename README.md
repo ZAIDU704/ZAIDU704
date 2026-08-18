@@ -202,11 +202,10 @@ Cybersecurity Professional
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/ZAIDU704/ZAIDU704/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/ZAIDU704/ZAIDU704/gh-pages/github-contribution-grid-snake.svg)
 
 </div>
 
-> This only renders once the Snake Actions workflow has run at least once in your `ZAIDU704/ZAIDU704` repo (see setup guide, Phase 3). Until then, remove this section or leave it — it will simply appear broken until the `output` branch exists.
 
 ---
 
