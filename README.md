@@ -1,187 +1,261 @@
-<h1 align="center">Hi, I'm ZAID BILAL ðŸ‘‹</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/zhacks704">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00E5A0&center=true&vCenter=true&width=440&lines=Cybersecurity+Enthusiast;Python+Developer;AI+%26+Automation+Builder;Future+Cybersecurity+Professional" alt="Typing animation: Cybersecurity Enthusiast, Python Developer, AI and Automation Builder, Future Cybersecurity Professional" />
-  </a>
-</p>
+# Hi, I'm ZAID BILAL 👋
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-00E5A0?style=flat-square&labelColor=0D1117" alt="Focus: Cybersecurity" />
-  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0D1117" alt="Code: Python" />
-  <img src="https://img.shields.io/badge/Building-AI%20%26%20Automation-8A2BE2?style=flat-square&labelColor=0D1117" alt="Building: AI and Automation" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Python+Developer;AI+%26+Automation+Builder;Future+Cybersecurity+Professional)](https://git.io/typing-svg)
 
----
+**Build. Learn. Secure.**
 
-## About Me
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZAIDU704)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aesthetic.zaidu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=googlechrome&logoColor=00F7FF)](https://zaidu704.github.io/)
 
-I'm a technology enthusiast currently learning **cybersecurity and ethical hacking** while building practical **Python and AI** projects.
-
-- Interested in automation, computer security and how systems really work
-- Building hands-on projects to turn what I learn into real skills
-- Working toward a career as a **cybersecurity professional**
+</div>
 
 ---
 
-## ðŸ”­ Currently Working On
+## 👨‍💻 About Me
 
-- Cybersecurity fundamentals
-- Networking fundamentals
-- Ethical hacking concepts (legal and authorized only)
-- Python development
-- AI and automation
-- Building practical projects
-- Improving my GitHub and open-source skills
+I'm an aspiring **cybersecurity professional** and **Python developer**, currently building practical skills through hands-on projects in security, automation, and AI/computer vision. I learn by building — turning cybersecurity, networking, and Linux fundamentals into real, working code rather than just theory.
+
+- 🔐 Learning cybersecurity fundamentals and ethical hacking concepts
+- 🐍 Building projects in Python, automation, and AI
+- 🎥 Exploring computer vision (OpenCV, MediaPipe)
+- 🌐 Studying networking and Linux
+- 🌱 Actively working toward a professional cybersecurity career
+
+> All security-related learning and experimentation is conducted in **authorized, legal, and educational** contexts only.
 
 ---
 
-## ðŸ›  Skills & Technologies
+## 🛡️ Cybersecurity Focus
 
-**Languages**
+I'm building foundational knowledge in:
 
-<p>
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="34" alt="Python" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="34" alt="HTML5" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/css/663399" height="34" alt="CSS" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="34" alt="JavaScript" />
-</p>
+- Cybersecurity fundamentals & security concepts
+- Networking (TCP/IP, protocols)
+- Linux command-line & system fundamentals
+- Ethical hacking concepts (authorized/educational)
+- Web security & network security basics
+- Security tools and security automation
+- Defensive security concepts
+
+---
+
+## 💻 Tech Stack
+
+**Programming**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Cybersecurity & Networking**
 
-<p>
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="34" alt="Linux" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nmap/4A88C7" height="34" alt="Nmap" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="34" alt="Wireshark" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="34" alt="Kali Linux" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="34" alt="Bash" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/termux/000000" height="34" alt="Termux" />
-</p>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-2E8B57?style=for-the-badge&logo=cisco&logoColor=white)
+![Web Security](https://img.shields.io/badge/Web%20Security-FF6B6B?style=for-the-badge&logo=owasp&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-1A1A2E?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<sub>Learning areas: networking fundamentals, web security basics, ethical hacking concepts.</sub>
+**AI & Computer Vision**
 
-**AI / Computer Vision / Automation**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-4CAF50?style=for-the-badge&logo=zapier&logoColor=white)
 
-<p>
-  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="34" alt="OpenCV" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mediapipe/0097A7" height="34" alt="MediaPipe" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="34" alt="Google Gemini API" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/python/FFD343" height="34" alt="Python automation scripting" />
-</p>
+**Development Tools**
 
-**Tools**
-
-<p>
-  <img src="https://cdn.simpleicons.org/git/F05032" height="34" alt="Git" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="34" alt="GitHub" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="34" alt="Visual Studio Code" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/termux/00CC00" height="34" alt="Termux" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
-## ðŸš€ Featured Projects
+## 🚀 Featured Projects
 
-### GestureTeach AI
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🖐️ [GestureTeach AI](https://github.com/ZAIDU704/GestureTeach-AI)
+
 **AI-Based Touchless Presentation Control System**
 
-Uses a webcam to detect hand gestures and translate them into presentation and desktop controls â€” slide navigation, pointer actions and on-screen annotation without touching the keyboard.
+A Python-based computer-vision application that uses webcam hand tracking and gesture recognition to provide touchless control of presentation and desktop functions.
 
-<p>
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="26" alt="Python" />&nbsp;
-  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="26" alt="OpenCV" />&nbsp;
-  <img src="https://cdn.simpleicons.org/mediapipe/0097A7" height="26" alt="MediaPipe" />
-  &nbsp;<code>Tkinter</code> <code>PyAutoGUI</code>
-</p>
+**Tech:** `Python` `OpenCV` `MediaPipe` `Tkinter` `PyAutoGUI`
 
-<a href="REPLACE_WITH_GESTURETEACH_REPO_URL"><img src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="View GestureTeach AI repository" /></a>
+**Features**
+- Real-time hand tracking
+- Gesture recognition
+- Touchless presentation control
+- Desktop interaction
+- Webcam-based interaction
+- Graphical interface
 
-<!-- Demo: add a screenshot or GIF link here once available -->
+![Preview](assets/gestureteach-preview.png)
 
-### ZAID JARVIS AI
-**AI-powered desktop voice assistant**
+</td>
+<td width="50%" valign="top">
 
-A voice-driven desktop assistant that listens to spoken commands, responds with speech and automates everyday desktop tasks.
+### 🤖 [ZAID JARVIS AI](https://github.com/ZAIDU704/ZAID-JARVIS-AI)
 
-<p>
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="26" alt="Python" />&nbsp;
-  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="26" alt="Gemini API" />
-  &nbsp;<code>Speech Recognition</code> <code>Text-to-Speech</code>
-</p>
+**AI-Powered Desktop Voice Assistant**
 
-<a href="REPLACE_WITH_JARVIS_REPO_URL"><img src="https://img.shields.io/badge/View%20Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="View ZAID JARVIS AI repository" /></a>
+An experimental AI/voice-assistant project focused on interacting with a computer and automating desktop tasks through voice commands.
 
-<!-- Demo: add a screenshot or GIF link here once available -->
+**Tech:** `Python`
 
----
+**Status:** Experimental / actively developed
 
-## ðŸ“Š GitHub Statistics
+![Preview](assets/jarvis-preview.png)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhacks704&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5A0&icon_color=00E5A0&text_color=C9D1D9" height="165" alt="ZAID BILAL's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhacks704&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5A0&text_color=C9D1D9" height="165" alt="Most used languages" />
-</p>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhacks704&bg_color=0D1117&color=C9D1D9&line=00E5A0&point=FFFFFF&hide_border=true&area=true" alt="Contribution activity graph" />
-</p>
+> 📸 Screenshots above are placeholders — replace `assets/gestureteach-preview.png` and `assets/jarvis-preview.png` with real screenshots from each repo. The README renders fine even before you add them.
 
 ---
 
-## ðŸ“š Currently Learning
+## 📚 Currently Learning
 
 | Area | Focus |
-| --- | --- |
-| Cybersecurity | Security fundamentals |
-| Networking | TCP/IP, protocols, network concepts |
-| Ethical Hacking | Legal / authorized security testing |
-| Python | Automation and security scripting |
-| AI | AI tools, APIs and automation |
-| Linux | Command line and system fundamentals |
+|---|---|
+| **Cybersecurity** | Fundamentals, networking, security concepts, authorized ethical-hacking practices |
+| **Python** | Programming, automation, and practical project development |
+| **Networking** | TCP/IP fundamentals, networking concepts, network security |
+| **Linux** | Command-line usage, system fundamentals, security-oriented environments |
+| **AI & Automation** | AI APIs, computer vision, automation, practical AI applications |
 
 ---
 
-## ðŸŽ¯ Goals
+## 🎓 Education
 
-- Complete my education
-- Build stronger programming fundamentals
-- Develop real cybersecurity expertise
-- Build real-world, practical projects
+**Current Education:** Class 12 — *In Progress*
+**Future Academic Goal:** Bachelor of Computer Applications (BCA)
+**Long-Term Career Direction:** Cybersecurity
+
+---
+
+## 🏆 Certifications & Credentials
+
+*Verified certifications and credentials will be added here as they are completed.*
+
+| Certification | Issuing Organization | Date | Verification |
+|---|---|---|---|
+| — | — | — | — |
+
+---
+
+## 🎯 Goals
+
+- Complete Class 12
+- Pursue BCA
+- Build strong computer-science fundamentals
+- Develop cybersecurity expertise
+- Improve networking and Linux skills
+- Build security-related projects
 - Earn recognized cybersecurity certifications
-- Contribute to open source
-- Build a professional cybersecurity career
+- Contribute to open-source projects
+- Develop a professional cybersecurity career
 
 ---
 
-## ðŸ† Certifications & Learning
+## 📈 Learning Journey
 
-> Coming soon â€” verified certifications will be added here.
-
-<!--
-| Certificate | Issuing Organization | Verification |
-| --- | --- | --- |
-| Certificate name | Organization | Verification link |
--->
-
----
-
-## ðŸŒ Connect With Me
-
-<p align="center">
-  <a href="https://www.instagram.com/aesthetic.zaidu?igsh=cWtlamJmOGkwMHNm">
-    <img src="https://img.shields.io/badge/Instagram-%40aesthetic.zaidu-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram: @aesthetic.zaidu" />
-  </a>
-  <a href="https://github.com/zhacks704">
-    <img src="https://img.shields.io/badge/GitHub-zhacks704-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub: zhacks704" />
-  </a>
-  <a href="REPLACE_WITH_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Coming%20soon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn (placeholder)" />
-  </a>
-  <a href="REPLACE_WITH_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Coming%20soon-00E5A0?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio (placeholder)" />
-  </a>
-</p>
+```
+Computer Fundamentals
+        ↓
+Programming & Python
+        ↓
+AI / Computer Vision / Automation
+        ↓
+Networking & Linux
+        ↓
+Cybersecurity
+        ↓
+BCA
+        ↓
+Cybersecurity Professional
+```
 
 ---
 
-<p align="center"><sub><b>Building. Learning. Securing.</b> ðŸš€</sub></p>
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZAIDU704&show_icons=true&count_private=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZAIDU704&layout=compact&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F)
+
+</div>
+
+> Using the public `github-readme-stats` instance — if you see "API rate limit exceeded," self-host your own instance (covered in your setup guide, Phase 2) and swap the URL.
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/ZAIDU704/ZAIDU704/output/github-contribution-grid-snake.svg)
+
+</div>
+
+> This only renders once the Snake Actions workflow has run at least once in your `ZAIDU704/ZAIDU704` repo (see setup guide, Phase 3). Until then, remove this section or leave it — it will simply appear broken until the `output` branch exists.
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZAIDU704)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aesthetic.zaidu)
+
+**GitHub:** [github.com/ZAIDU704](https://github.com/ZAIDU704) · **Instagram:** [@aesthetic.zaidu](https://www.instagram.com/aesthetic.zaidu) · **Portfolio:** [zaidu704.github.io](https://zaidu704.github.io/)
+
+For professional collaboration, connect with me through GitHub or Instagram.
+
+</div>
+
+---
+
+## 📄 Resume
+
+<div align="center">
+
+[![Download Resume](https://img.shields.io/badge/Download-Resume-00F7FF?style=for-the-badge&logo=googledocs&logoColor=black)](assets/resume/ZAID-BILAL-Resume.pdf)
+
+</div>
+
+> Place your resume PDF at `assets/resume/ZAID-BILAL-Resume.pdf` to activate this button.
+
+---
+
+<div align="center">
+
+## 🧩 Profile Image
+
+<img src="assets/profile.png" width="150" alt="ZAID BILAL profile photo" />
+
+*Replace `assets/profile.png` with your own professional photograph.*
+
+</div>
+
+---
+
+<div align="center">
+
+### ZAID BILAL
+**Build. Learn. Secure.**
+
+[GitHub](https://github.com/ZAIDU704) • [Instagram](https://www.instagram.com/aesthetic.zaidu)
+
+© 2026 ZAID BILAL
+
+</div>
