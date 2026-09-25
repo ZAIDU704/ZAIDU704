@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm ZAID BILAL 👋
+## Hi, I'm ZAID BILAL 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Python+Developer;AI+%26+Automation+Builder;Future+Cybersecurity+Professional)](https://git.io/typing-svg)
 
